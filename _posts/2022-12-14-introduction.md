@@ -1,7 +1,3 @@
----
-layout: post
-image:  introduction.png
----
 ![introduction](https://user-images.githubusercontent.com/120550652/207543964-2ae98b39-d19f-4966-b402-0191329754cc.png)  
 
 # 학술동아리 에임(AIM)(artificial intelligence master) 1기 모집 공고
