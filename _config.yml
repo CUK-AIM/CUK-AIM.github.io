@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "ko"
 title                    : "CUK-AIM"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Artificial Intelligence Master" # site tagline that appears below site title in masthead
 name                     : "AIM (Artificial Intelligence Master)"
 description              : "Aritifical Intellgence Master"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
