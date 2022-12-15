@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "CUK AIM"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am **amaizing** person"
+  bio              : ""
   location         : "Catholic Univ. of Korea"
   email            :
   links:
