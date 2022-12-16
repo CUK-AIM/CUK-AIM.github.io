@@ -73,11 +73,13 @@ ins {
   border-bottom: 1px solid $text-color;
   a {
     color: inherit;
+    text-decoration: none;
   }
 }
 
 del a {
   color: inherit;
+  text-decoration: none;
 }
 
 /* reduce orphans and widows when printing */
