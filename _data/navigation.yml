@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "News"
-    url: "www.google.com"
+    url: https://cuk-aim.github.io/news/
   - title: "Instagram"
     url: https://www.instagram.com/cuk_aim
   - title: "Labotary"
