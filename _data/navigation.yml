@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "News"
+    url: "www.google.com"
   - title: "Instagram"
     url: https://www.instagram.com/cuk_aim
   - title: "Labotary"
