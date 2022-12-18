@@ -213,6 +213,8 @@ figure {
 
   img {
     width: 60%;
+    margin: auto;
+    display_block: block; 
     border-radius: $border-radius;
     -webkit-transition: $global-transition;
     transition: $global-transition;
