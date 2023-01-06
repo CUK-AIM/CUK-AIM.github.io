@@ -1,5 +1,5 @@
 ---
-title: AIM 1기 winter sesason OT
+title: AIM 1기 winter season OT
 author_profile: false
 layout: single
 classes: wide
